@@ -1,19 +1,14 @@
- App Gallery:
+ **App Gallery**:
 
 A modern, responsive web application for discovering and managing mobile applications. Browse through curated apps, view detailed information, and manage your installations seamlessly.
-
-
- Overview: 
-
+ Overview:
 App Gallery is a feature-rich web platform that allows users to:
 -Discover: trending and popular applications
 -Search: and filter apps by various criteria
 -View detailed information: about each app including ratings, reviews, and descriptions
 -Manage installations: with local storage integration
 -Experience smooth navigation: with loading animations
-
 Features:
-
  Core Features:
 -Home Page: Featured apps and trending sections
 -Apps Catalog: Complete app listing with search and sort functionality
