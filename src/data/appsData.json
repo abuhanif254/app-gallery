@@ -1,0 +1,362 @@
+[
+  {
+    "image": "/apps/weather-pro.png",
+    "title": "Weather Pro",
+    "companyName": "SkyTech Inc",
+    "id": 1,
+    "description": "Accurate weather forecasts with real-time updates and beautiful radar maps. Stay prepared for any weather condition.",
+    "size": 45.2,
+    "reviews": 12500,
+    "ratingAvg": 4.5,
+    "downloads": 2900000,
+    "ratings": [
+      { "name": "1 star", "count": 625 },
+      { "name": "2 star", "count": 1250 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 3750 },
+      { "name": "5 star", "count": 4375 }
+    ]
+  },
+  {
+    "image": "/apps/epic-quest.png",
+    "title": "Epic Quest",
+    "companyName": "Game Studios",
+    "id": 2,
+    "description": "Embark on an epic RPG adventure with stunning graphics and immersive gameplay.",
+    "size": 892.7,
+    "reviews": 8900,
+    "ratingAvg": 4.8,
+    "downloads": 1500000,
+    "ratings": [
+      { "name": "1 star", "count": 178 },
+      { "name": "2 star", "count": 356 },
+      { "name": "3 star", "count": 890 },
+      { "name": "4 star", "count": 1780 },
+      { "name": "5 star", "count": 5696 }
+    ]
+  },
+  {
+    "image": "/apps/note-taker.png",
+    "title": "Note Taker",
+    "companyName": "Productivity Labs",
+    "id": 3,
+    "description": "Simple and elegant note-taking app with cloud sync and organizational features.",
+    "size": 32.1,
+    "reviews": 21500,
+    "ratingAvg": 4.2,
+    "downloads": 4200000,
+    "ratings": [
+      { "name": "1 star", "count": 2150 },
+      { "name": "2 star", "count": 3225 },
+      { "name": "3 star", "count": 4300 },
+      { "name": "4 star", "count": 6450 },
+      { "name": "5 star", "count": 5375 }
+    ]
+  },
+  {
+    "image": "/apps/music-flow.png",
+    "title": "Music Flow",
+    "companyName": "Sound Systems",
+    "id": 4,
+    "description": "Stream millions of songs and create perfect playlists with personalized recommendations.",
+    "size": 78.5,
+    "reviews": 35600,
+    "ratingAvg": 4.7,
+    "downloads": 8500000,
+    "ratings": [
+      { "name": "1 star", "count": 712 },
+      { "name": "2 star", "count": 1068 },
+      { "name": "3 star", "count": 3560 },
+      { "name": "4 star", "count": 10680 },
+      { "name": "5 star", "count": 19580 }
+    ]
+  },
+  {
+    "image": "/apps/fit-tracker.png",
+    "title": "Fit Tracker",
+    "companyName": "HealthTech",
+    "id": 5,
+    "description": "Comprehensive fitness tracking with workout plans and health monitoring.",
+    "size": 67.3,
+    "reviews": 18200,
+    "ratingAvg": 4.6,
+    "downloads": 3200000,
+    "ratings": [
+      { "name": "1 star", "count": 364 },
+      { "name": "2 star", "count": 910 },
+      { "name": "3 star", "count": 2730 },
+      { "name": "4 star", "count": 5460 },
+      { "name": "5 star", "count": 8736 }
+    ]
+  },
+  {
+    "image": "/apps/budget-wise.png",
+    "title": "Budget Wise",
+    "companyName": "Finance Solutions",
+    "id": 6,
+    "description": "Smart budgeting and expense tracking to help you manage your finances effectively.",
+    "size": 28.9,
+    "reviews": 9400,
+    "ratingAvg": 4.4,
+    "downloads": 1800000,
+    "ratings": [
+      { "name": "1 star", "count": 282 },
+      { "name": "2 star", "count": 564 },
+      { "name": "3 star", "count": 1410 },
+      { "name": "4 star", "count": 3290 },
+      { "name": "5 star", "count": 3854 }
+    ]
+  },
+  {
+    "image": "/apps/photo-editor.png",
+    "title": "Photo Editor Pro",
+    "companyName": "Creative Tools",
+    "id": 7,
+    "description": "Professional photo editing tools with filters, effects, and advanced adjustments.",
+    "size": 156.8,
+    "reviews": 27800,
+    "ratingAvg": 4.3,
+    "downloads": 5600000,
+    "ratings": [
+      { "name": "1 star", "count": 1390 },
+      { "name": "2 star", "count": 2780 },
+      { "name": "3 star", "count": 5560 },
+      { "name": "4 star", "count": 8340 },
+      { "name": "5 star", "count": 9730 }
+    ]
+  },
+  {
+    "image": "/apps/language-learn.png",
+    "title": "Language Learn",
+    "companyName": "Education First",
+    "id": 8,
+    "description": "Learn new languages with interactive lessons and speech recognition.",
+    "size": 112.4,
+    "reviews": 16200,
+    "ratingAvg": 4.7,
+    "downloads": 2900000,
+    "ratings": [
+      { "name": "1 star", "count": 324 },
+      { "name": "2 star", "count": 486 },
+      { "name": "3 star", "count": 1620 },
+      { "name": "4 star", "count": 4860 },
+      { "name": "5 star", "count": 8910 }
+    ]
+  },
+  {
+    "image": "/apps/social-connect.png",
+    "title": "Social Connect",
+    "companyName": "Social Networks",
+    "id": 9,
+    "description": "Connect with friends and share moments with our social media platform.",
+    "size": 89.6,
+    "reviews": 43200,
+    "ratingAvg": 4.1,
+    "downloads": 9800000,
+    "ratings": [
+      { "name": "1 star", "count": 4320 },
+      { "name": "2 star", "count": 6480 },
+      { "name": "3 star", "count": 8640 },
+      { "name": "4 star", "count": 12960 },
+      { "name": "5 star", "count": 10800 }
+    ]
+  },
+  {
+    "image": "/apps/meditation.png",
+    "title": "Mindful Meditation",
+    "companyName": "Wellness Co",
+    "id": 10,
+    "description": "Guided meditation sessions for stress relief and mental wellness.",
+    "size": 54.2,
+    "reviews": 12800,
+    "ratingAvg": 4.8,
+    "downloads": 2100000,
+    "ratings": [
+      { "name": "1 star", "count": 128 },
+      { "name": "2 star", "count": 256 },
+      { "name": "3 star", "count": 768 },
+      { "name": "4 star", "count": 2560 },
+      { "name": "5 star", "count": 9088 }
+    ]
+  },
+  {
+    "image": "/apps/recipe-book.png",
+    "title": "Recipe Book",
+    "companyName": "Foodie Apps",
+    "id": 11,
+    "description": "Discover thousands of recipes with step-by-step cooking instructions.",
+    "size": 76.3,
+    "reviews": 9800,
+    "ratingAvg": 4.5,
+    "downloads": 1600000,
+    "ratings": [
+      { "name": "1 star", "count": 196 },
+      { "name": "2 star", "count": 490 },
+      { "name": "3 star", "count": 1470 },
+      { "name": "4 star", "count": 2940 },
+      { "name": "5 star", "count": 4704 }
+    ]
+  },
+  {
+    "image": "/apps/travel-planner.png",
+    "title": "Travel Planner",
+    "companyName": "Adventure Co",
+    "id": 12,
+    "description": "Plan your perfect trip with itinerary suggestions and booking features.",
+    "size": 93.7,
+    "reviews": 7400,
+    "ratingAvg": 4.6,
+    "downloads": 1300000,
+    "ratings": [
+      { "name": "1 star", "count": 148 },
+      { "name": "2 star", "count": 296 },
+      { "name": "3 star", "count": 888 },
+      { "name": "4 star", "count": 2220 },
+      { "name": "5 star", "count": 3848 }
+    ]
+  },
+  {
+    "image": "/apps/shopping-cart.png",
+    "title": "Smart Shopping",
+    "companyName": "Retail Tech",
+    "id": 13,
+    "description": "Compare prices and find the best deals across multiple retailers.",
+    "size": 41.8,
+    "reviews": 15600,
+    "ratingAvg": 4.2,
+    "downloads": 2700000,
+    "ratings": [
+      { "name": "1 star", "count": 624 },
+      { "name": "2 star", "count": 1248 },
+      { "name": "3 star", "count": 3120 },
+      { "name": "4 star", "count": 4680 },
+      { "name": "5 star", "count": 5928 }
+    ]
+  },
+  {
+    "image": "/apps/news-reader.png",
+    "title": "News Reader",
+    "companyName": "Media Corp",
+    "id": 14,
+    "description": "Personalized news feed from trusted sources around the world.",
+    "size": 35.9,
+    "reviews": 11200,
+    "ratingAvg": 4.4,
+    "downloads": 1900000,
+    "ratings": [
+      { "name": "1 star", "count": 224 },
+      { "name": "2 star", "count": 448 },
+      { "name": "3 star", "count": 1680 },
+      { "name": "4 star", "count": 3360 },
+      { "name": "5 star", "count": 5488 }
+    ]
+  },
+  {
+    "image": "/apps/puzzle-master.png",
+    "title": "Puzzle Master",
+    "companyName": "Brain Games",
+    "id": 15,
+    "description": "Challenge your mind with hundreds of puzzles and brain teasers.",
+    "size": 124.5,
+    "reviews": 8300,
+    "ratingAvg": 4.7,
+    "downloads": 1400000,
+    "ratings": [
+      { "name": "1 star", "count": 83 },
+      { "name": "2 star", "count": 166 },
+      { "name": "3 star", "count": 581 },
+      { "name": "4 star", "count": 1992 },
+      { "name": "5 star", "count": 5478 }
+    ]
+  },
+  {
+    "image": "/apps/calendar-pro.png",
+    "title": "Calendar Pro",
+    "companyName": "Organize Inc",
+    "id": 16,
+    "description": "Smart calendar with scheduling, reminders, and team collaboration.",
+    "size": 48.6,
+    "reviews": 19600,
+    "ratingAvg": 4.5,
+    "downloads": 3500000,
+    "ratings": [
+      { "name": "1 star", "count": 392 },
+      { "name": "2 star", "count": 784 },
+      { "name": "3 star", "count": 2940 },
+      { "name": "4 star", "count": 5880 },
+      { "name": "5 star", "count": 11604 }
+    ]
+  },
+  {
+    "image": "/apps/email-client.png",
+    "title": "Email Master",
+    "companyName": "Communication Pro",
+    "id": 17,
+    "description": "Powerful email client with smart sorting and quick responses.",
+    "size": 62.7,
+    "reviews": 23400,
+    "ratingAvg": 4.3,
+    "downloads": 4100000,
+    "ratings": [
+      { "name": "1 star", "count": 936 },
+      { "name": "2 star", "count": 1872 },
+      { "name": "3 star", "count": 4680 },
+      { "name": "4 star", "count": 7020 },
+      { "name": "5 star", "count": 8892 }
+    ]
+  },
+  {
+    "image": "/apps/video-editor.png",
+    "title": "Video Editor Pro",
+    "companyName": "Creative Studio",
+    "id": 18,
+    "description": "Edit videos like a pro with advanced tools and effects.",
+    "size": 287.3,
+    "reviews": 6700,
+    "ratingAvg": 4.6,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 134 },
+      { "name": "2 star", "count": 268 },
+      { "name": "3 star", "count": 804 },
+      { "name": "4 star", "count": 2010 },
+      { "name": "5 star", "count": 3484 }
+    ]
+  },
+  {
+    "image": "/apps/stock-tracker.png",
+    "title": "Stock Tracker",
+    "companyName": "Finance Pro",
+    "id": 19,
+    "description": "Real-time stock market tracking and portfolio management.",
+    "size": 39.4,
+    "reviews": 8900,
+    "ratingAvg": 4.4,
+    "downloads": 1700000,
+    "ratings": [
+      { "name": "1 star", "count": 178 },
+      { "name": "2 star", "count": 356 },
+      { "name": "3 star", "count": 1335 },
+      { "name": "4 star", "count": 2670 },
+      { "name": "5 star", "count": 4361 }
+    ]
+  },
+  {
+    "image": "../assets/learn.png",
+    "title": "Study Assistant",
+    "companyName": "Education Pro",
+    "id": 20,
+    "description": "AI-powered study tools and flashcards for effective learning.",
+    "size": 71.8,
+    "reviews": 10500,
+    "ratingAvg": 4.7,
+    "downloads": 1800000,
+    "ratings": [
+      { "name": "1 star", "count": 105 },
+      { "name": "2 star", "count": 210 },
+      { "name": "3 star", "count": 735 },
+      { "name": "4 star", "count": 2520 },
+      { "name": "5 star", "count": 6930 }
+    ]
+  }
+]

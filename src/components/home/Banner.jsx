@@ -1,3 +1,4 @@
+import { FaAppStore, FaGooglePlay } from "react-icons/fa";
 import HeroImg from "./HeroImg";
 
 
@@ -8,7 +9,7 @@ const Banner = () => {
     <div 
       className="relative min-h-[70vh] bg-cover bg-center bg-no-repeat flex items-center"
       style={{
-        // backgroundImage: `url(${HeroImg})`,
+        
       }}
     >
       
@@ -35,7 +36,7 @@ const Banner = () => {
             className="bg-gray-200 hover:bg-gray-400 text-black px-8 py-4 rounded-lg flex items-center justify-center gap-3 transition-colors min-w-[200px]"
           >
           
-            <span>📱</span>
+            <span><FaAppStore /></span>
             <span className="font-semibold">App Store</span>
           </a>
           
@@ -47,7 +48,7 @@ const Banner = () => {
             className="bg-gray-200 hover:bg-green-700 text-black px-8 py-4 rounded-lg flex items-center justify-center gap-3 transition-colors min-w-[200px]"
           >
            
-            <span>▶️</span>
+            <span><FaGooglePlay /></span>
             <span className="font-semibold">Play Store</span>
           </a>
         </div>
